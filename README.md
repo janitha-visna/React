@@ -1,3 +1,4 @@
+I AM JUST TRYING TO LEARN GIT:
 > If you are following the HackYourFuture curriculum, we recommend you to start from module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
 > Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/React/pulls).
